@@ -1,5 +1,4 @@
 ### Hai semua 👋 
-<img width="1220" alt="Screenshot 2023-07-22 at 13 35 27" src="https://github.com/slmtwn/slmtwn/assets/51221005/a39c14f5-b806-4ebf-93fb-4e33c6488afc">
 
 
 Saya adalah orang biasa yang sedang belajar web programming. Semoga saya mampu dan saya selalu mohon dukungan dari teman-teman smuanya. Saya belajar web Programming dengan Framework Codeigniter 3.
