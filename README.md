@@ -1,12 +1,12 @@
 ### Hai semua 👋 
 
 
-Saya adalah orang biasa yang sedang belajar web programming. Semoga saya mampu dan saya selalu mohon dukungan dari teman-teman smuanya. Saya belajar web Programming dengan Framework Codeigniter 3.
+Saya adalah orang biasa yang sedang belajar web programming. Disini tempat menyimpan project saya, silahkan jika tertarik bisa di kembangkan dan masukanya buat saya. 
+
+![Codeigniter_pdf-750x304](https://github.com/slmtwn/slmtwn/assets/51221005/de860781-50a4-4b99-b53f-d086816db18c)
 
 Besar harapan saya untuk bisa menjadi seorang programmer web. 
 Terima kasih..
-![Codeigniter_pdf-750x304](https://github.com/slmtwn/slmtwn/assets/51221005/de860781-50a4-4b99-b53f-d086816db18c)
-
 <!--
 **slmtwn/slmtwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
