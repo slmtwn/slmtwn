@@ -1,9 +1,6 @@
 ### Hai semua 👋 
 
 
-![Codeigniter_pdf-750x304](https://github.com/slmtwn/slmtwn/assets/51221005/de860781-50a4-4b99-b53f-d086816db18c)
-
-<!--
 **slmtwn/slmtwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
