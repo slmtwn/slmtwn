@@ -1,6 +1,5 @@
-  ![JOKER](https://c4.wallpaperflare.com/wallpaper/573/419/600/joker-batman-the-dark-knight-heath-ledger-wallpaper-preview.jpg)
 
-<!--### Hai semua 👋 
+### Hai semua 👋 
 
 
 **slmtwn** is a ✨ _special_ ✨ repository.
